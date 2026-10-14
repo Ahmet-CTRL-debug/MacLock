@@ -37,11 +37,11 @@ while True:
                     time.sleep(2) 
                     
                     # ŞİFRENİ BURAYA YAZ 
-                    os.system('''osascript -e 'tell application "System Events" to keystroke "AhmetAyse2"' ''')
+                    os.system('''osascript -e 'tell application "System Events" to keystroke "YOUR PASSWORD"' ''')
                     time.sleep(0.5)
                     
                     os.system('''osascript -e 'tell application "System Events" to key code 36' ''')
-                    os.system('say "Hoşgeldiniz Ahmet Bey"')
+                    os.system('say "WELCOME"')
                     
                 elif gelen_veri == "ON2":
                     os.system('open -a Safari "https://gemini.google.com"')
