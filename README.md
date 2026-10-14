@@ -1,3 +1,5 @@
+<img width="378" height="212" alt="IMG_1394" src="https://github.com/user-attachments/assets/b4f6b38d-253f-4f85-a2bd-73526e7d5cb0" />
+
 # 🔑 MacLock: Physical Key Switch for macOS
 
 This project is for anyone who wants to unlock their Mac (from the lock screen) using a physical key. As a bonus, you can set the key's second position to do one more custom action. For example, mine opens Gemini!
